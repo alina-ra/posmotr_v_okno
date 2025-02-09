@@ -51,10 +51,10 @@ ol {
 }
 
 .content {
-  inline-size: 1140px;
   display: flex;
   column-gap: 28px;
   align-items: flex-end;
+  inline-size: 1140px;
 }
 
 .content__list {
@@ -227,8 +227,8 @@ ol {
 }
 
 .search-form__checkbox-list {
-  margin-bottom: 5px;
   display: flex;
+  margin-bottom: 5px;
   column-gap: 15px;
 }
 
@@ -309,5 +309,6 @@ ol {
   block-size: 34px;
   inline-size: 100%;
 }
+
 
 
